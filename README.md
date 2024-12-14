@@ -15,6 +15,7 @@ Too many things going on in your head while planning a film shoot internationall
 3. **Culture**: Gives details about the culture of destination country
 4. **Logistics**: Takes care about the travel and accomodation in the destination country
 5. **Compliance**: Looks after the protocols to be kept in mind while preparing for a shoots abroad
+6. **Budget**: Aggregates result of all the agents/nodes and forms the complete budget report
 
 ## Flask Server
 1. crew_desc : This function extracts description of user's crew from PostgreSQL database
